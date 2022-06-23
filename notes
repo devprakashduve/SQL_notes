@@ -1,1 +1,7 @@
+Inner join=> only matching row
 
+left join => matching+ left table rows
+
+rigth join => matching + right table rows
+
+full join => matching + left + right table rows
